@@ -329,7 +329,7 @@ header {
 }
 
 @media (min-width: 600px) {
-    .about-me {
+    .about-me__img {
         display: grid;
         grid-template-columns: 1fr 200px;
         grid-template-areas: 
